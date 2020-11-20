@@ -1,0 +1,2 @@
+01 * * * * python3 /home/pi/stribog/getholfuy.py > /home/pi/stribog/faillog.txt 2>&1
+01 09 * * * python3 /home/pi/stribog/getRASP.py > /home/pi/stribog/faillog.txt 2>&1
